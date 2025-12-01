@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "app",
+      "type": "com.example.bajaj.config.AppProperties",
+      "sourceType": "com.example.bajaj.config.AppProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "app.email",
+      "type": "java.lang.String",
+      "sourceType": "com.example.bajaj.config.AppProperties"
+    },
+    {
+      "name": "app.final-sql-path",
+      "type": "java.lang.String",
+      "sourceType": "com.example.bajaj.config.AppProperties"
+    },
+    {
+      "name": "app.name",
+      "type": "java.lang.String",
+      "sourceType": "com.example.bajaj.config.AppProperties"
+    },
+    {
+      "name": "app.reg-no",
+      "type": "java.lang.String",
+      "sourceType": "com.example.bajaj.config.AppProperties"
+    }
+  ],
+  "hints": []
+}
